@@ -1,0 +1,46 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex aa5c157..25d3325 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,30 +5,33 @@[m
+         Portfolio Nick Bunstead[m
+     </title>[m
+ [m
+[32m+[m[32m    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Jost&display=swap" rel="stylesheet">[m
+     <link rel="stylesheet" type="text/css" href="./css/index.css" />[m
+ </head>[m
+ [m
+ <body>[m
+[32m+[m[32m    <div class="layer">[m
+     <header>[m
+[32m+[m[32m        <img class="image1" src="images/NB logo.png"/>[m
+         <h1>Portfolio</h1>[m
+[31m-        <h2>Nick Bunstead</h2>[m
+[32m+[m[32m        <h4>Nick Bunstead</h4>[m
+     </header>[m
+ [m
+     <nav>[m
+[31m-        <a>Home</a>[m
+[31m-        <a>Portfolio</a>[m
+[31m-        <a>About</a>[m
+[31m-        <a>Services</a>[m
+[31m-        <a>Contact</a>[m
+[32m+[m[32m        <a>| Home |</a>[m
+[32m+[m[32m        <a> Portfolio |</a>[m
+[32m+[m[32m        <a>About |</a>[m
+[32m+[m[32m        <a>Services |</a>[m
+[32m+[m[32m        <a>Contact |</a>[m
+     </nav>[m
+ [m
+     <main>[m
+[31m-[m
+[32m+[m[32m        <img class="image2" src="images/laptop-ipad image.jpg";/>[m
+     </main>[m
+ [m
+     <footer>[m
+ [m
+     </footer>[m
+ </body>[m
+[31m-[m
+[32m+[m[32m</div>[m
+ </html>[m
